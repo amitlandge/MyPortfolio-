@@ -58,7 +58,7 @@ body {
     transform: translateY(-200%);
     width: 100%;
     position: absolute;
-    left: 2%;
+    left: 0%;
     background-color: #384145;
   }
   #hamburger {
